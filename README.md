@@ -1,4 +1,4 @@
-#Seedtable Links Fix
+# Seedtable Links Fix
 Script to fix broken links of startups on Seedtable
 
 Many links to the websites of startups are broken.
